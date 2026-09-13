@@ -11,7 +11,7 @@ opening a pull request, and getting it merged.
 
 1. Clone the repository.
 2. Make a change on a new branch.
-3. Open a pull request and recieve feedback.
+3. Open a pull request and receive feedback.
 4. Merge once approved.
 
 ## License
